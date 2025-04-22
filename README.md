@@ -2,4 +2,10 @@
 
 Steam Depot Manifest Cache
 
-Update time: 2025-04-18
+Not going to update
+
+just to archive
+
+main branch only
+
+that means no manifest caches because they will all OUT OF DATE one day
